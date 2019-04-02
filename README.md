@@ -29,6 +29,7 @@ Die «Sammlung Oskar Reinhart ‹Am Römerholz›» in Winterthur möchte den be
 ### Aufgabe
 Die Startseite (ohne weitere Seiten) soll inhaltlich (Text) identisch aber mit neuer Gestaltung überarbeitet werden. Die Funktion, Position, Grösse und Gestaltung muss aus dem vom Kandidaten oder der Kandidatin abgegebenen Material klar ersichtlich werden. Alle inhaltlichen Elemente sollen erhalten bleiben, das jetzige Video kann eingebaut werden – muss aber nicht. Das Header-Bild (Kopf) darf ersetzt werden. Es gibt keine technischen Einschränkungen. Die Gestaltung und die Erscheinung soll sich an übliche Konzepte und visuelle Erfahrung im Web anlehnen. Der Vorschlag muss nur für die Desktop-Website gezeigt werden. Eine Umsetzung für mobile Geräte muss in diesem Stadium nicht gezeigt werden.  
 Logo gemäss Pressemitteilungen auf der Website. Kein neues Logos gestalten.
+> Update 2.4.2019: Seit Aufgabestart gab es ein Update auf der Website. Es kann mit den neuen Inhalten gearbeitet werden oder im mit den Alten von [archive.org](https://web.archive.org/web/20190325063915/https://www.roemerholz.ch/sor/de/home.html). Die Aufgabe ändert sich nicht.
 
 ### Abgabe
 Einen grafischen Vorschlag in digitaler Form. Text mit maximal 400 Zeichen welche Mängel der alten Website mit dem neuen Design gelöst sind.
